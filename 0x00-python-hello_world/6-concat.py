@@ -1,4 +1,5 @@
 #!/usr/bin/python3
-str = "Holberton School"
-print(str * 3)
-print(str[:9])
+str1 = "Holberton"
+str2 = "School"
+str = str1 + "" + str2
+print (f"welcome to {str1}!")
