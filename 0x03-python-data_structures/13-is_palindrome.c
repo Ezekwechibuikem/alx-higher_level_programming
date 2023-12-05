@@ -1,4 +1,5 @@
 #include "lists.h"
+#include <stddef.h>
 
 /**
  * is_palindrome - check if a linekd list is a palindrome
@@ -55,4 +56,4 @@ int get_length(listint_t *head)
 		head = head->next;
 	}
 	return (count);
-}}
+}
