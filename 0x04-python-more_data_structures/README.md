@@ -1,4 +1,4 @@
-**Python** - **More Data Structures**:**Set, Dictionary**
+**Python** - **More Data Structures**: **Set, Dictionary**
 
 ## This project covers all of the following list topic
 
