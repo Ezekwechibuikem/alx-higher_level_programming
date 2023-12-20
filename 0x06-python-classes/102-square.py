@@ -121,4 +121,4 @@ class Square:
         Returns:
             True if self is greater than or equal to other, False otherwise
         """
-        return self.area() >= other.
+        return self.area() >= other.area().
