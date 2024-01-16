@@ -1,6 +1,6 @@
 #  Python - Almost a circle #
 
-*This projects covers the below listed topics *
+*This projects covers the below listed topics*
 
 - Import
 - Exceptions
