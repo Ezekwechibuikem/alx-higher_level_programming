@@ -1,0 +1,3 @@
+- - Display databases
+
+SHOW DATABASES;
