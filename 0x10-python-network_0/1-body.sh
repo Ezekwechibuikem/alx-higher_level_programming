@@ -1,5 +1,3 @@
 #!/bin/bash
-
-#displays the body of the response by taking in a url and sending a GET request to the url.
-
+# takes in a URL, sends a GET request to the URL, and displays the body of the response
 curl -sl "$1"
